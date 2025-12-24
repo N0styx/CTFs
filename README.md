@@ -13,7 +13,7 @@ While I explore various categories, my core specializations are:
 
 ### 📂 Repository Structure
 * `/write-ups` - Archives from past years.
-* `/presentations` - presentations and challenges made for beginners.
+* `/Knowledge-Share` - presentations and challenges made for beginners.
 * `/Research` - Independent studies on specific vulnerabilities.
 
 > "The goal is always to better myself."
